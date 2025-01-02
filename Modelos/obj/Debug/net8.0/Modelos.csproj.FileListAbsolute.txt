@@ -1,0 +1,11 @@
+C:\Users\krma-\source\repos\TestEfective\Modelos\bin\Debug\net8.0\Modelos.deps.json
+C:\Users\krma-\source\repos\TestEfective\Modelos\bin\Debug\net8.0\Modelos.dll
+C:\Users\krma-\source\repos\TestEfective\Modelos\bin\Debug\net8.0\Modelos.pdb
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfo.cs
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.dll
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\refint\Modelos.dll
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\Modelos.pdb
+C:\Users\krma-\source\repos\TestEfective\Modelos\obj\Debug\net8.0\ref\Modelos.dll

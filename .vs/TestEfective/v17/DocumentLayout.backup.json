@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krma-\\source\\repos\\TestEfective\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\logica\\empleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\logica\\empleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\logica\\iempleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\logica\\iempleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\logica\\estadocivillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\logica\\estadocivillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\controllers\\estadocivilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\controllers\\estadocivilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\models\\estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\models\\estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\logica\\iestadocivillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\logica\\iestadocivillogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\context\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\context\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|c:\\users\\krma-\\source\\repos\\testefective\\testefective\\testefective.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93E06EC1-458C-4E65-BD53-4A745D165749}|TestEfective\\TestEfective.csproj|solutionrelative:testefective\\testefective.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Models\\Empleado.cs",
+              "RelativeToolTip": "TestEfective\\Models\\Empleado.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:52:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpleadoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\IEmpleadoLogica.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Logica\\IEmpleadoLogica.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\IEmpleadoLogica.cs",
+              "RelativeToolTip": "TestEfective\\Logica\\IEmpleadoLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:11:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoCivilLogica.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\EstadoCivilLogica.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Logica\\EstadoCivilLogica.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\EstadoCivilLogica.cs",
+              "RelativeToolTip": "TestEfective\\Logica\\EstadoCivilLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:16:11.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "TestEfective\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:11:14.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "testDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Context\\testDBContext.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Context\\testDBContext.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Context\\testDBContext.cs",
+              "RelativeToolTip": "TestEfective\\Context\\testDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:45:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\appsettings.json",
+              "RelativeDocumentMoniker": "TestEfective\\appsettings.json",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\appsettings.json",
+              "RelativeToolTip": "TestEfective\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T16:40:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\EmpleadoLogica.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Logica\\EmpleadoLogica.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\EmpleadoLogica.cs",
+              "RelativeToolTip": "TestEfective\\Logica\\EmpleadoLogica.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:11:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Program.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Program.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Program.cs",
+              "RelativeToolTip": "TestEfective\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:49:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoCivil.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Models\\EstadoCivil.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Models\\EstadoCivil.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Models\\EstadoCivil.cs",
+              "RelativeToolTip": "TestEfective\\Models\\EstadoCivil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:46:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoCivilController.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\EstadoCivilController.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Controllers\\EstadoCivilController.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\EstadoCivilController.cs",
+              "RelativeToolTip": "TestEfective\\Controllers\\EstadoCivilController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:20:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoDocumentoController.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\TipoDocumentoController.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Controllers\\TipoDocumentoController.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Controllers\\TipoDocumentoController.cs",
+              "RelativeToolTip": "TestEfective\\Controllers\\TipoDocumentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:00:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEstadoCivilLogica.cs",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\IEstadoCivilLogica.cs",
+              "RelativeDocumentMoniker": "TestEfective\\Logica\\IEstadoCivilLogica.cs",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\Logica\\IEstadoCivilLogica.cs",
+              "RelativeToolTip": "TestEfective\\Logica\\IEstadoCivilLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:14:45.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestEfective",
+              "DocumentMoniker": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\TestEfective.csproj",
+              "RelativeDocumentMoniker": "TestEfective\\TestEfective.csproj",
+              "ToolTip": "C:\\Users\\krma-\\source\\repos\\TestEfective\\TestEfective\\TestEfective.csproj",
+              "RelativeToolTip": "TestEfective\\TestEfective.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T17:37:28.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
